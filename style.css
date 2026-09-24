@@ -1,0 +1,43 @@
+body {
+    background-color: #120e0f;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #171314;
+}
+
+.logo {
+    color: red !important;
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.hero {
+    background-image: url("image/crab.jpg");
+    background-size: 100%;
+    background-position: right center;
+    background-repeat: no-repeat;
+    background-color: #120e0f;
+}
+
+.title {
+    color: #ed3030;
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.cuisine {
+    color: #ddd;
+    font-size: 22px;
+    line-height: 1;
+}
+
+.subtitle {
+    color: #aaa;
+    letter-spacing: 3px;
+}
